@@ -1,0 +1,23 @@
+# Laravel
+/source/vendor
+/source/.env
+/source/.phpunit.cache
+/source/node_modules
+/source/public/build
+/source/public/hot
+/source/public/storage
+/source/storage/*.key
+/source/.env.backup
+/source/.env.production
+/source/.phpunit.result.cache
+/source/Homestead.json
+/source/Homestead.yaml
+/source/auth.json
+/source/npm-debug.log
+/source/yarn-error.log
+
+# IDE
+/source/.fleet
+/source/.idea
+/source/.vscode
+

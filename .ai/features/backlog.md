@@ -5,7 +5,7 @@ This document outlines the high-level epics and features planned for the MVP of 
 | Index | Feature Name | Goal / Definition of Done | Status |
 | :---: | :--- | :--- | :---: |
 | **1.1** | Initialize Laravel & Livewire | Base Laravel app with Livewire and SQLite is ready and tested. Detailed in `init_project.md` | [Done] |
-| **1.2** | User Auth, Roles & Permissions | Implement `spatie/laravel-permission` for roles and access control. | [Pending] |
+| **1.2** | User Auth, Roles & Permissions | Implement `spatie/laravel-permission` for roles and access control. | [Done] |
 | **1.3** | Base Layouts & Navigation | UI layouts configured with conditional navigation based on User Role. | [Pending] |
 | **2.1** | Departments, Positions & Employee Directory | Admin/HR can CRUD Departments, Positions, User profiles, and assign Managers. | [Pending] |
 | **2.2** | Salary Configuration | Admin/HR can CRUD `SalaryConfig` (base pay, allowances, tax) per employee. | [Pending] |
