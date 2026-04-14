@@ -1,0 +1,13 @@
+Để vận hành team này, bạn chỉ cần sử dụng 3 mẫu câu lệnh (Prompts) chính:
+
+1. Khi muốn làm tính năng mới:
+
+"@Leader, tôi muốn làm tính năng [ABC]. Hãy phỏng vấn tôi và lập kế hoạch vào thư mục .ai/."
+
+2. Khi đã chốt kế hoạch:
+
+"Kế hoạch trong .ai/ đã ổn. Team hãy thực hiện theo đúng quy trình Pipeline."
+
+3. Khi muốn kiểm tra trạng thái:
+
+"@Leader, cho tôi xem HANDOVER.md và tóm tắt tiến độ hiện tại."
